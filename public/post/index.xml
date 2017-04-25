@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Agency si-home 1</title>
+    <link>https://example.org/post/</link>
+    <description>Recent content in Posts on Agency si-home 1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Mar 2017 21:09:05 +0100</lastBuildDate>
+    
+	<atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>second</title>
+      <link>https://example.org/post/second/</link>
+      <pubDate>Sun, 12 Mar 2017 21:09:05 +0100</pubDate>
+      
+      <guid>https://example.org/post/second/</guid>
+      <description>“Peace of mind !&amp;rdquo; ― Robert M. Pirsig, Zen and the Art of Motorcycle Maintenance</description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>https://example.org/post/first/</link>
+      <pubDate>Sun, 12 Mar 2017 21:04:44 +0100</pubDate>
+      
+      <guid>https://example.org/post/first/</guid>
+      <description>“Peace of mind produces right values, right values produce right thoughts. Right thoughts produce right actions and right actions produce work which will be a material reflection for others to see of the serenity at the center of it all.” ― Robert M. Pirsig, Zen and the Art of Motorcycle Maintenance</description>
+    </item>
+    
+  </channel>
+</rss>
