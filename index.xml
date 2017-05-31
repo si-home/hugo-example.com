@@ -38,5 +38,15 @@
       <description>“Peace of mind produces right values, right values produce right thoughts. Right thoughts produce right actions and right actions produce work which will be a material reflection for others to see of the serenity at the center of it all.” ― Robert M. Pirsig, Zen and the Art of Motorcycle Maintenance</description>
     </item>
     
+    <item>
+      <title>si-home Startpage</title>
+      <link>/si-home/</link>
+      <pubDate>Sun, 12 Mar 2017 20:50:25 +0100</pubDate>
+      
+      <guid>/si-home/</guid>
+      <description> this is my new private Testpage *
+My private homepage is just in construction. Gradually it is filled with content. </description>
+    </item>
+    
   </channel>
 </rss>
